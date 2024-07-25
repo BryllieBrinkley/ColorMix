@@ -18,13 +18,13 @@ To run this project locally, follow these steps:
 
 ## Usage
 Toggle Switches:
-Use the red green, and bkue swithes to enable or disable their respective color channels.
+Use the red green, and blue switches to enable or disable their respective color channels.
 
 Adjust Sliders:
 Slide the red, green, and blue sliders to modify the intensity of each color channel.
 
 Preview Color:
-Observe the colorView to see the combined color based on the enabled switches and adjusted sliders.
+Observe the color view to see the combined color based on the enabled switches and adjusted sliders.
 
 Reset Colors:
 Tap the "Reset" button to reset all switches and sliders to their default positions.
